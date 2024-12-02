@@ -77,7 +77,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "waline"
 
 [comments.disqusjs]
 shortname = ""
@@ -105,11 +105,11 @@ clientSecret = ""
 autoCreateIssue = false
 
 [comments.waline]
-serverURL = ""
-lang = ""
-visitor = ""
+serverURL = "https://waline-pnygscrpk-jnz113s-projects.vercel.app"
+lang = "zh-CN"
+visitor = true
 avatar = ""
-emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"]
+emoji = ["https://unpkg.com/@waline/emojis@1.2.0/bilibili"]
 requiredMeta = ["name", "email", "url"]
 placeholder = ""
 
