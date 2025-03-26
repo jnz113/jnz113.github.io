@@ -2,5 +2,11 @@
 [en]
 languageName = "English"
 languagedirection = "ltr"
-title = "Example Site"
+title = "jnz113's Blog"
+weight = 2
+
+[zh-CN]
+languageName = "中文"
+languagedirection = "ltr"
+title = "jnz113 技术博客"
 weight = 1
