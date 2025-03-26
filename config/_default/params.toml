@@ -105,7 +105,7 @@ clientSecret = ""
 autoCreateIssue = false
 
 [comments.waline]
-serverURL = "https://waline-pnygscrpk-jnz113s-projects.vercel.app"
+serverURL = "https://waline-chi-ashen.vercel.app/"
 lang = "zh-CN"
 visitor = true
 avatar = ""
