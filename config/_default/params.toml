@@ -109,7 +109,7 @@ serverURL = "https://waline-chi-ashen.vercel.app/"
 lang = "zh-CN"
 visitor = true
 avatar = ""
-emoji = ["https://unpkg.com/@waline/emojis@1.2.0/bilibili","https://unpkg.com/@waline/emojis@1.2.0/coolapk"]
+emoji = ["https://unpkg.com/@waline/emojis@1.2.0/bilibili"]
 requiredMeta = ["name", "email", "url"]
 placeholder = "请在遵守法律法规，保持理性、友好原则下发表言论。"
 
